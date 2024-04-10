@@ -40,7 +40,7 @@ function flashRainbowColors(callback) {
     }, 2000); // Flash colors for 2 seconds
 }
 
-// Function to display the picmix.com2526460.gif initially
+// Function to display the cat.gif initially
 function displayCat() {
     // Get the container where the image will be displayed
     var imageContainer = document.getElementById('image-container');
@@ -76,5 +76,5 @@ function displayCatHeart() {
     };
 }
 
-// Display the picmix.com2526460.gif initially
+// Display the cat.gif initially
 displayCat();
